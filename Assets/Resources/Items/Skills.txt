@@ -1,0 +1,111 @@
+[{
+  "id": 0,
+  "image": "Stand",
+  "name": "Blessing",
+  "desc": "BLABAABLSSUHDUSHDS",
+  "cooldown": 0,
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "armor": {
+    "armor": 100,
+    "parry": 10,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  }
+},
+{
+  "id": 1,
+  "image": "Fire",
+  "name": "Fire Promming",
+  "desc": "Rajada de buceta de fogo",
+  "cooldown": 0,
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "armor": {
+    "armor": 100,
+    "parry": 10,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  }
+},
+{
+  "id": 2,
+  "image": "Fire 2",
+  "name": "Fire Promming",
+  "desc": "Rajada de buceta de fogo",
+  "cooldown": 0,
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "armor": {
+    "armor": 100,
+    "parry": 10,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  }
+},
+{
+  "id": 3,
+  "image": "Fire 5",
+  "name": "Fire Promming",
+  "desc": "Rajada de buceta de fogo",
+  "cooldown": 0,
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "armor": {
+    "armor": 100,
+    "parry": 10,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  }
+}
+,
+{
+  "id": 4,
+  "image": "Fire",
+  "name": "Fire Promming",
+  "desc": "Rajada de buceta de fogo",
+  "cooldown": 0,
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "armor": {
+    "armor": 100,
+    "parry": 10,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  }
+}]

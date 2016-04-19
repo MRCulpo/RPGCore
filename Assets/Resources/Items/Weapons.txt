@@ -1,0 +1,28 @@
+[{
+  "damage": {
+    "damage": 10,
+    "criticalDamage": 10,
+    "elementalDamage": 0
+  },
+  "element": 4,
+  "id": 0,
+  "amount": 0,
+  "image": "...",
+  "name": "Sword Venux",
+  "desc": null,
+  "typeItem": 0
+},
+{
+  "damage": {
+    "damage": 150,
+    "criticalDamage": 30,
+    "elementalDamage": 0
+  },
+  "element": 4,
+  "id": 1,
+  "amount": 0,
+  "image": "...",
+  "name": "Excalibur",
+  "desc": null,
+  "typeItem": 0
+}]

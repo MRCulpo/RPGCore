@@ -1,0 +1,37 @@
+[{
+  "armor": {
+    "armor": 100,
+    "parry": 12,
+    "resistance": {
+      "fire": 12,
+      "frost": 0,
+      "nature": 0,
+      "dark": 12
+    }
+  },
+  "id": 0,
+  "amount": 0,
+  "image": "null",
+  "name": "null",
+  "desc": "null",
+  "typeItem": 1
+},
+
+{
+  "armor": {
+    "armor": 100,
+    "parry": 2,
+    "resistance": {
+      "fire": 0,
+      "frost": 0,
+      "nature": 0,
+      "dark": 0
+    }
+  },
+  "id": 1,
+  "amount": 0,
+  "image": "null",
+  "name": "null",
+  "desc": "null",
+  "typeItem": 1
+}]
